@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "723098701998",
+    "firebase_url": "https://tcalender-78f85.firebaseio.com",
+    "project_id": "tcalender-78f85",
+    "storage_bucket": "tcalender-78f85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723098701998:android:1b06f658e0d247c0",
+        "android_client_info": {
+          "package_name": "com.example.tcalender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723098701998-5407kdtr35ppohgcspa8facdn99tuu9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tcalender",
+            "certificate_hash": "8e98690f0d4f5f102fac7bf0d0dab81950198004"
+          }
+        },
+        {
+          "client_id": "723098701998-cghu0thginpfihsq5ub3uu9pu70mmcdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4urldI8ordXyPJAX1HwAvkuk2x8LjPO4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723098701998-cghu0thginpfihsq5ub3uu9pu70mmcdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
